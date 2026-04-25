@@ -4,3 +4,4 @@
 - [2026-04-25T22:33:55Z] docs: update README with usage examples
 - [2026-04-25T22:07:59Z] fix: handle null pointer exception
 - [2026-04-25T09:15:35Z] refactor: clean up unused imports
+- [2026-04-25T21:01:19Z] refactor: simplify conditional logic
